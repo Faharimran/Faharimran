@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Faharimran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/preview-1x/60/70/young-male-programmer-geek-character-develop-vector-44636070.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faharimran&label=Profile%20views&color=0e75b6&style=flat" alt="faharimran" /> </p>
